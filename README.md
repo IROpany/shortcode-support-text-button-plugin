@@ -1,3 +1,3 @@
 # support_button
 
-## ショートコード[support_button]を貼り付けると、ボタンが貼り付けれます。ボタンを押すと文章が出力されます。
+## If you paste the short code [support_button], you can paste the button. Press the button to output the text.
