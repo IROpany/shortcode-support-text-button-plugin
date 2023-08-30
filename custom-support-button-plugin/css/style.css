@@ -1,0 +1,23 @@
+.custom-support-button {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.support-button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.support-count {
+    margin-left: 10px;
+}
+
+.thank-you-message {
+    display: block;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #3498db;
+}
