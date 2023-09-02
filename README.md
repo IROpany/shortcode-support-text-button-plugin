@@ -52,10 +52,10 @@ https://iropany.com/IRO/
 
 #### ## About code generation
 
-Some or all of the code for this project was generated using a natural language processing AI model called Chat GPT. In creating the code, Chat GPT generated the code based on the developer's instructions, but the responsibility for the quality and security of the final code rests with the project owner or maintainer.
+All of the code for this project was generated using a natural language processing AI model called Chat GPT. In creating the code, Chat GPT generated the code based on the developer's instructions, but the final code quality and security-related inertia checks are incomplete.
 
-Security Considerations: While Chat GPT follows certain rules when generating code, we cannot guarantee that the code is completely secure. If security issues arise, the project owner or maintainer is responsible for addressing them. Project users should also be careful when reporting security issues.
+Security Considerations: Chat GPT follows certain rules when generating code, but does not guarantee completely secure code generation.
 
-Transparency of code generation: Providing information about code generation and clearly stating how code was generated is an effort to increase the transparency of the project. The goal is to provide project users and the community with details about the code generation process to improve trust.
+Transparency of code generation: Providing information about code generation and clearly stating how the code was generated is an effort to increase the transparency of the project. We aim to provide project users and the community with details about the code generation process to increase confidence in the project.
 
 Please note that the project is open source and welcomes feedback from the community that can contribute to improving the code and its security. We hope you will help us improve the quality of the project by reporting bugs and security issues and contributing to the code.
