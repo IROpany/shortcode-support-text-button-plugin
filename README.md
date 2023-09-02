@@ -17,10 +17,10 @@ Log in to your WordPress admin dashboard.
 
 Follow these steps to display custom support buttons on your posts and fixed pages.
 
-1. go to the edit screen of the post or fixed page. 2.
-Paste the shortcode `[support_button]` anywhere you want. 3.
-3. apply additional CSS if necessary to customize the appearance. 4.
-4. if you want to change the text output by pressing the button, edit the corresponding part of the JavaScript file.
+1. go to the edit screen of the post or fixed page. 
+Paste the shortcode `[support_button]` anywhere you want. 
+2. apply additional CSS if necessary to customize the appearance. 
+3. if you want to change the text output by pressing the button, edit the corresponding part of the JavaScript file.
 
 By following these steps, you can set up your custom support button and display it on your posts and fixed pages.
 
