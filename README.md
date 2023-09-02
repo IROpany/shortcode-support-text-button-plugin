@@ -47,8 +47,6 @@ We welcome contributions from the community. If you wish to contribute, please f
 - Author: Iro
 - GitHub: 
 https://github.com/IROpany
-- Website: 
-https://iropany.com/IRO/
 
 #### ## About code generation
 
