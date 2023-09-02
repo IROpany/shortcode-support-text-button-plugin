@@ -3,7 +3,7 @@
 Plugin Name: Custom Support Button
 Description: Add a custom support button to your posts.
 Version: 1.0
-Author: Your Name
+Author: Iro
 */
 
 function custom_support_button($atts) {
