@@ -45,7 +45,7 @@ We welcome contributions from the community. If you wish to contribute, please f
 ## Author Information
 
 - Author: Iro
-- GitHub: [your GitHub profile].
+- GitHub: 
 https://github.com/IROpany
-- Website: [your personal website].
+- Website: 
 https://iropany.com/IRO/
