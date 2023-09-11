@@ -41,9 +41,5 @@ function custom_support_button_enqueue_scripts() {
     // JavaScriptをエンキュー
     wp_enqueue_script('custom-support-button-script', plugin_dir_url(__FILE__) . 'js/script.js', array('jquery'), '1.0', true);
 
-    // JavaScriptに渡す変数をローカライズ
-    wp_localize_script('custom-support-button-script', 'custom_support_button_vars', array(
-        'thank_you_message' => "応援ありがとうございます!\n励みになります！"
-    ));
 }
 add_action('wp_enqueue_scripts', 'custom_support_button_enqueue_scripts'); // スクリプトとスタイルをエンキューするアクションを登録
