@@ -18,7 +18,7 @@ supportButton.addEventListener('click', function(event) {
         // ありがとうというメッセージを表示する要素を作成
         let thankYouMessage = document.createElement('span');
         thankYouMessage.className = 'thank-you-message';
-        thankYouMessage.innerText = 'ありがとうございます！';//javascriptの文章が出力されている
+        thankYouMessage.innerText ='応援ありがとうございます！\n励みになります!';//javascriptの文章が出力されている
 
         // メッセージを表示する前に既存のメッセージを削除
         let existingMessage = event.target.parentNode.querySelector('.thank-you-message');
