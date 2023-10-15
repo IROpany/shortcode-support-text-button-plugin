@@ -46,9 +46,7 @@ This project is licensed under [license name](https://github.com/IROpany/support
 
 Thank you for the contribution of the contributors. Your cooperation will contribute to the growth of the project.
 
-[Code Style Guide]: Insert URL here
-
-[License name]: Insert the license name used by the project
+[License name]: GPL-2.0 license
 
 ### 8. A link
 
