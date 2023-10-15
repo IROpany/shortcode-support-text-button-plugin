@@ -28,7 +28,7 @@ The procedure for submitting a contribution is as follows:
 
 ### 3. Code Style Guide
 
-This project adopts [Code Style Guide] (https://github.com/IROpany/support_button/blob/main/CODE_OF_CONDUCT.md) It is. Please follow the guidelines before submitting the code.
+This project adopts [Code Style Guide](https://github.com/IROpany/support_button/blob/main/CODE_OF_CONDUCT.md).It is. Please follow the guidelines before submitting the code.
 
 ### 4. Testing and quality standards
 
@@ -40,7 +40,7 @@ If you have any questions or suggestions, communication is welcome. Let's commun
 
 ### 6. License
 
-This project is licensed under [license name] (https://github.com/IROpany/support_button/blob/main/LICENSE). If you contribute, you will be deemed to have agreed to the license.
+This project is licensed under [license name](https://github.com/IROpany/support_button/blob/main/LICENSE). If you contribute, you will be deemed to have agreed to the license.
 
 ### 7. Words of thanks
 
