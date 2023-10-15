@@ -1,67 +1,81 @@
-## コードスタイルガイド
+## Code Style Guide
 
-このプロジェクトは、コードの品質と一貫性を確保するためにコードスタイルガイドを採用しています。以下のガイドラインに従ってコードを記述してください。
-
-### 1. インデント
-
-- インデントにはスペース4つを使用してください。
-
-### 2. 変数と関数
-
-- 変数名や関数名はわかりやすく記述してください。意味のある名前を使用しましょう。
+- Please describe variable names and function names in an easy-to-understand manner. Let's use a meaningful name.
 
 ```javascript
-// 良い例
-const userName = "John";
 
-function calculateTotalPrice() {
-  // コード
+// A good example
+
+Const userName = "John";
+
+Function calculateTotalPrice() {
+
+// Code
+
 }
+
 ```
 
-### 3. セミコロン
+### 3. A semicolon
 
-- 文の終了にはセミコロンを使用してください。
+- Use a semicolon to end the sentence.
 
 ```javascript
-// 良い例
-const x = 5;
 
-// 悪い例
-const y = 10
+// A good example
+
+Const x = 5;
+
+// A bad example
+
+Const y = 10
+
 ```
 
-### 4. コメント
+### 4. Comment
 
-- コード内にコメントを追加し、コードの目的や説明を提供してください。
+- Please add comments in the code and provide the purpose and description of the code.
 
 ```javascript
-// コードの目的を説明するコメント
-const result = calculateTotalPrice();
+
+// Comments explaining the purpose of the code
+
+Const result = calculateTotalPrice();
+
 ```
 
-### 5. フォーマット
+### 5. A format
 
-- コードを整形し、読みやすく保ちましょう。
+- Let's format the code and keep it easy to read.
 
-### 6. ドキュメンテーション
+### 6. Documentation
 
-- 関数やクラスには適切なドキュメンテーションコメントを追加し、関数の目的、パラメータ、戻り値を説明してください。
+- Add appropriate documentation comments to functions and classes, and explain the purpose, parameters, and return values of the function.
 
 ```javascript
+
 /**
- * 2つの数値を加算します。
- * @param {number} a - 最初の数値
- * @param {number} b - 2番目の数値
- * @returns {number} - 加算結果
- */
-function addNumbers(a, b) {
-  return a + b;
+
+* Add 2 numbers.
+
+* @param {number} a - the first number
+
+* @param {number} b - the second number
+
+* @returns {number} - Addition result
+
+*/
+
+Function addNumbers(a, b) {
+
+Return a + b;
+
 }
+
 ```
 
-### 7. テスト
+### 7. A test
 
-- 新しい機能を追加する場合、テストを追加し、既存のテストを実行してください。
+- If you want to add a new feature, add a test and run an existing test.
 
-このガイドラインに従うことで、コードの品質を向上させ、一貫性を保つことができます。コードスタイルガイドはプロジェクトの成功に寄与します。
+By following these guidelines, you can improve the quality of the code and maintain consistency. The code style guide contributes to the success of the project.
