@@ -22,7 +22,7 @@ Follow these steps to display custom support buttons on your posts and fixed pag
 
 1. go to the edit screen of the post or fixed page. 
 Paste the shortcode `[support_button]` anywhere you want. 
-2. apply additional CSS if necessary to customize the appearance. 
+2. The appearance is adjusted from the css file.
 3. if you want to change the text output by pressing the button, edit the corresponding part of the JavaScript file.
 
 By following these steps, you can set up your custom support button and display it on your posts and fixed pages.
