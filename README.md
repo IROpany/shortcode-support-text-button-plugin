@@ -1,11 +1,11 @@
-# support_button
+# support-text-button-plugin
 ## Description
 
-サポートボタンは、ショートコードでボタンを配置するプラグインです。クリックするとテキストが表示されるボタンになっています。
+サポートテキストボタンは、ショートコードでボタンを配置するプラグインです。クリックするとテキストが表示されるボタンになっています。
 
-### Custom Support Buttons WordPress Plugin
+### Support Text Button WordPress Plugin
 
-Custom Support Buttons is a WordPress plugin that allows you to easily add customized support buttons to your posts.
+Support Text Button is a WordPress plugin that allows you to easily add customized support buttons to your posts.
 
 ## Install
 
