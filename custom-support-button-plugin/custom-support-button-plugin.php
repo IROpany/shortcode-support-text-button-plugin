@@ -8,6 +8,7 @@ Author: Iro
 
 // カスタムサポートボタンのショートコードを定義
 function custom_support_button($atts) {
+    
     // ショートコードの属性を設定
     $atts = shortcode_atts(
         array(
