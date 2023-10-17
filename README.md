@@ -1,11 +1,11 @@
-# support-text-button-plugin
+# shortcode-support-text-button-plugin
 ## Description
 
-サポートテキストボタンは、ショートコードでボタンを配置するプラグインです。クリックするとテキストが表示されるボタンになっています。
+ショートコードサポートテキストボタンは、ショートコードでボタンを配置するプラグインです。クリックするとテキストが表示されるボタンになっています。
 
-### Support Text Button WordPress Plugin
+### Shortcode Support Text Button WordPress Plugin
 
-Support Text Button is a WordPress plugin that allows you to easily add customized support buttons to your posts.
+Shortcode Support Text Button is a WordPress plugin that allows you to easily add customized support buttons to your posts.
 
 ## Install
 
