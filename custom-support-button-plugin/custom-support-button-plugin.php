@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Custom Support Button
-Description: Add a custom support button to your posts.
+Plugin Name: Shortcode Support Text Button
+Description: Add a shortcode support text button to your posts.
 Version: 1.0
 Author: Iro
 */
