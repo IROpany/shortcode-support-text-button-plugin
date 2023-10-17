@@ -43,4 +43,4 @@ function custom_support_button_enqueue_scripts() {
     wp_enqueue_script('custom-support-button-script', plugin_dir_url(__FILE__) . 'js/script.js', array('jquery'), '1.0', true);
 
 }
-add_action('wp_enqueue_scripts', 'custom_support_button_enqueue_scripts'); // スクリプトとスタイルをエンキューするアクションを登録
+add_action('wp_enqueue_scripts', 'custom_support_button_enqueue_scripts'); // スクリプトとスタイルをエンキューするアクションフックを登録
